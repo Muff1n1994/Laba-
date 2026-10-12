@@ -1,0 +1,7 @@
+equipment_log.db
+*.db
+__pycache__/
+*.pyc
+.env
+credentials.json
+.DS_Store
